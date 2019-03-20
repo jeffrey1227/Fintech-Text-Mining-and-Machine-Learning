@@ -2,7 +2,7 @@
 
 1. 我們選擇用Selenium套件爬蟲，因為它可以模擬人類做滾動網頁和點擊操作。
 
-2. 流程圖
+2. 流程圖  
    ![image](https://github.com/jeffrey1227/Fintech-Text-Mining-and-Machine-Learning/blob/master/img/workflow.jpg)
 
 3. 
