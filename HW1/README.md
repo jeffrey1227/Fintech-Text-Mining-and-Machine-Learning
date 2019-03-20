@@ -8,11 +8,11 @@
   
   
 3. 
-   ```module not found```  
+   - ```module not found```  
    套件未下載，由Terminal輸入```pip install [package name]```下載。  
-   ```FileNotFoundError: File b'../Municipal Bond ETF List (29).csv' does not exist```  
+   - ```FileNotFoundError: File b'../Municipal Bond ETF List (29).csv' does not exist```  
    Excel檔案路徑錯誤，此為將```.csv```放在```.py```檔上一層路徑的寫法。  
-   ```FileNotFoundError: [Errno 2] No such file or directory: '/Users/lou_tun_chieh/Desktop/webdriver/chromedriver': '/Users/lou_tun_chieh/Desktop/webdriver/chromedriver'```  
+   - ```FileNotFoundError: [Errno 2] No such file or directory: '/Users/lou_tun_chieh/Desktop/webdriver/chromedriver': '/Users/lou_tun_chieh/Desktop/webdriver/chromedriver'```  
    Chrome Driver放置位置錯誤與程式碼上的路徑不相符。  
    
 
