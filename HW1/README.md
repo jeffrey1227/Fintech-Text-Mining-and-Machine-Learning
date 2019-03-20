@@ -4,7 +4,8 @@
   
   
 2. 流程圖  
-   ![image](https://github.com/jeffrey1227/Fintech-Text-Mining-and-Machine-Learning/blob/master/img/workflow.jpg)
+     
+     ![image](https://github.com/jeffrey1227/Fintech-Text-Mining-and-Machine-Learning/blob/master/img/workflow.jpg)
   
   
 3. 
